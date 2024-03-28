@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: #4b4b4b;
+}
+
+
+
+.navbar {
+    margin-left: -12px;
+    margin-right: -12px;
+    background-color: #ff4757 !important;
+
+    margin-bottom: 50px;
+}
+
+.cart-bar {
+    padding: 15px;
+    background-color: coral;
+}
